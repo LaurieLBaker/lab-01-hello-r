@@ -1,6 +1,6 @@
 # README
 
-## Deadline: Wednesday, January 26, 23:59 EST
+## Deadline: Practice
 
 This repo contains starter documents and any supplementary files (e.g. datasets) that you need for this assignment.
 You can commit and push to this repo as many times as you want until the deadline stated above.
